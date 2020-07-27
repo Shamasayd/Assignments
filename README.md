@@ -11,5 +11,5 @@ Please click here to see the output <a href="https://shamasayd.github.io/Assignm
 
 
 Module 3: Solution
-Please click here to see the output <a href="https://shamasayd.github.io/Assignments/Module3/index.html">Module 3 Solution</a>
+Please click here to see the output <a href="https://shamasayd.github.io/Assignments/Module3/">Module 3 Solution</a>
   
